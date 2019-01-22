@@ -4,4 +4,4 @@ Trainer: @Dragos Dehelean
 
 * [StarRating App](https://costin06.github.io/StarsRating/) 
 * [GifSearch App](https://costin06.github.io/GifSearch/)
-* [ScoreBoard App] (https://costin06.github.io/ScoreBoard/)
+* [ScoreBoard App](https://costin06.github.io/ScoreBoard/)
